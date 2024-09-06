@@ -17,7 +17,7 @@ The business request for this data analyst project was to analyze key indicators
 # Data Analysis (SQL)
 
 To create the necessary KPIs and fulfilling the business needs defined in the user stories queries in the belo SQL file were used.
-PIZZA SALES SQL QUERIES.docx
+https://github.com/suprithagc01/Pizza-Sales-Project/blob/ea8a11304f30c09df9ca4e081d8fa70576efcd4c/SQLQueries.sql
 
 # Sales Dashboard
 
